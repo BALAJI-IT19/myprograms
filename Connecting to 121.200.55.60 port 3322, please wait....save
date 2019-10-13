@@ -1,0 +1,28 @@
+login as:  2019UIT1106@121.200.55.60's password:  
+Welcome to Ubuntu 18.04.2 LTS (GNU/Linux 4.15.0-55-generic x86_64) 
+ * Documentation:  https://help.ubuntu.com 
+ * Management:     https://landscape.canonical.com 
+ * Support:        https://ubuntu.com/advantage 
+This system has been minimized by removing packages and content that are 
+not required on a system that users do not log into. 
+To restore this content, you can run the 'unminimize' command. 
+Last login: Sat Oct 12 15:53:19 2019 from 10.10.4.72 $ ls 
+balaji  boochan  tables.php.save  text $ CD balaji 
+-sh: 2: CD: not found $ cd balaji $ ls c  css  html  python 
+$ cd c $ ls 
+a.out  prog1.c  prog11.c  prog16.c  prog19.c  prog4.c  prog8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
